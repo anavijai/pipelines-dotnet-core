@@ -1,3 +1,4 @@
+https://dev.azure.com/PracOrganization/AWS%20Preparation/_apis/build/status/anavijai.pipelines-dotnet-core?branchName=master
 [![Build Status](https://dev.azure.com/PracOrganization/AWS%20Preparation/_apis/build/status/anavijai.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/PracOrganization/AWS%20Preparation/_build/latest?definitionId=1&branchName=master)
 
 # Sample ASP.NET Core application for Azure Pipelines docs
